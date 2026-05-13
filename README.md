@@ -1,2 +1,2 @@
 # packet-analysis-case-studies
-Collection of tepdump and Wireshark network traffic analyses using personal lab
+Collection of tcpdump & Wireshark network traffic analyses using personal lab
