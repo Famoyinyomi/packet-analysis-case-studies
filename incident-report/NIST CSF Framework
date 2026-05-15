@@ -1,0 +1,19 @@
+# Incident Response Analysis (NIST CSF Framework)
+
+## Executive Summary
+This report applies the NIST Cybersecurity Framework to analyze and respond to a detected security incident. The approach ensures structured handling across the five CSF functions — Identify, Protect, Detect, Respond, and Recover — to minimize impact and strengthen resilience.
+
+### Identify
+Critical assets and vulnerabilities were catalogued. The affected system was [insert system name], compromised through [insert vector].
+
+### Protect
+Preventive controls such as access restrictions, patch management, and firewall rules were reviewed and reinforced.
+
+### Detect
+Anomalous network traffic was detected via IDS alerts and tcpdump captures, confirming unauthorized access attempts.
+
+### Respond
+Immediate containment actions included isolating the host, performing forensic analysis, and disabling compromised accounts.
+
+### Recover
+Systems were restored from clean backups. Lessons learned were documented, and monitoring was enhanced to prevent recurrence.
