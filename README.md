@@ -20,6 +20,15 @@ All reports follow the five NIST CSF functions:
 | [Tcpdump Analysis](ca://s?q=Open_tcpdump_analysis_folder) | Packet capture and anomaly detection |
 | [Wireshark Analysis](ca://s?q=Open_wireshark_analysis_folder) | Deep protocol inspection and traffic analysis |
 
+## Case Studies
+| Report | Description |
+|---------|--------------|
+| [Incident Report](incident-report/) | Incident Response Analysis using NIST CSF |
+| [Risk Assessment Report](risk-assessment-report/) | Evaluation of vulnerabilities and threats |
+| [OS Hardening Techniques](os-hardening-techniques/) | System hardening and configuration security |
+| [Tcpdump Analysis](tcpdump-analysis/) | Packet capture and anomaly detection |
+| [Wireshark Analysis](wireshark-analysis/) | Deep protocol inspection and traffic analysis |
+
 ## Purpose
 These case studies demonstrate my ability to:
 - Analyze network traffic and identify anomalies  
