@@ -1,13 +1,28 @@
 # Packet Analysis Case Studies
 
-Collection of tcpdump and Wireshark network traffic analyses.
+## Overview
+This repository showcases cybersecurity case studies developed using the NIST Cybersecurity Framework (CSF). Each folder contains a professional PDF report and a Markdown summary for quick review.
 
-This repository contains real tcpdump and Wireshark captures analyzed during my Google Cybersecurity Certificate and personal labs.
+## Framework Alignment
+All reports follow the five NIST CSF functions:
+- Identify – Asset and risk identification
+- Protect – Safeguards and hardening techniques
+- Detect – Monitoring and anomaly detection
+- Respond – Incident containment and mitigation
+- Recover – Restoration and resilience improvement
 
-Each folder includes:
-- Capture file (.pcap)
-- Analysis summary
-- Screenshots
-- Key findings and recommendations
+## Case Studies
+| Report | Description |
+|--------|--------------|
+| [Incident Report](ca://s?q=Open_incident_report_folder) | Incident Response Analysis using NIST CSF |
+| [Risk Assessment Report](ca://s?q=Open_risk_assessment_report_folder) | Evaluation of vulnerabilities and threats |
+| [OS Hardening Techniques](ca://s?q=Open_OS_hardening_techniques_folder) | System hardening and configuration security |
+| [Tcpdump Analysis](ca://s?q=Open_tcpdump_analysis_folder) | Packet capture and anomaly detection |
+| [Wireshark Analysis](ca://s?q=Open_wireshark_analysis_folder) | Deep protocol inspection and traffic analysis |
 
-These case studies demonstrate my ability to interpret network traffic, identify anomalies, and explain findings clearly — essential skills for cybersecurity analysis and incident response.
+## Purpose
+These case studies demonstrate my ability to:
+- Analyze network traffic and identify anomalies  
+- Apply structured frameworks like NIST CSF  
+- Document findings professionally in PDF reports  
+- Recommend actionable security improvements
