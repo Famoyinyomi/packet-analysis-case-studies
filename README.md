@@ -19,12 +19,15 @@ All reports follow the five NIST CSF functions:
 | [OS Hardening Techniques](os-hardening-techniques/) | System hardening and configuration security |
 | [Tcpdump Analysis](tcpdump-analysis/) | Packet capture and anomaly detection |
 | [Wireshark Analysis](wireshark-analysis/) | Deep protocol inspection and traffic analysis |
-| [Zap Owasp Analysis](web-vulnerability-analysis/) | Without exploitation - scan and document the vulnerability of a webiste |
+| [Zap Owasp Analysis](web-vulnerability-analysis/) | Using industry standaard tools to find and fix web vulnerabilities (SQLi, XSS) before hackers can attack |
+
+
 
 
 ## Purpose
 These case studies demonstrate my ability to:
 - Analyze network traffic and identify anomalies  
 - Apply structured frameworks like NIST CSF  
+- Scan for and remediate critical web application vulnerabilities
 - Document findings professionally in PDF reports  
 - Recommend actionable security improvements
