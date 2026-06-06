@@ -19,7 +19,7 @@ All reports follow the five NIST CSF functions:
 | [OS Hardening Techniques](os-hardening-techniques/) | System hardening and configuration security |
 | [Tcpdump Analysis](tcpdump-analysis/) | Packet capture and anomaly detection |
 | [Wireshark Analysis](wireshark-analysis/) | Deep protocol inspection and traffic analysis |
-| [Web vulnerability Analysis](ZAP web vulnerability-analysis/)| without expliotation - finding the vulnerability of a webiste |
+| [Zap Owasp Analysis](web-vulnerability-analysis/) without exploitation - scan and document the vulnerability of a webiste |
 
 
 ## Purpose
