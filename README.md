@@ -1,4 +1,4 @@
-# Packet Analysis Case Studies
+# Packet & Web Vulnerability Analysis Case Studies
 
 ## Overview
 This repository showcases cybersecurity case studies developed using the NIST Cybersecurity Framework (CSF). Each folder contains a professional PDF report and a Markdown summary for quick review.
@@ -22,8 +22,6 @@ All reports follow the five NIST CSF functions:
 | [Zap Owasp Analysis](web-vulnerability-analysis/) | Using industry standaard tools to find and fix web vulnerabilities (SQLi, XSS) before hackers can attack |
 
 
-
-
 ## Purpose
 These case studies demonstrate my ability to:
 - Analyze network traffic and identify anomalies  
@@ -31,3 +29,9 @@ These case studies demonstrate my ability to:
 - Scan for and remediate critical web application vulnerabilities
 - Document findings professionally in PDF reports  
 - Recommend actionable security improvements
+
+
+## Certifications & Technical Skills
+- **Certification:** Google Cybersecurity Professional Certificate
+- **Core Tools:** OWASP ZAP, Wireshark, Tcpdump, Linux CLI
+- **Frameworks:** NIST CSF, OWASP Top 10
